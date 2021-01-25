@@ -1,0 +1,64 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #232323;
+}
+.button {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  line-height: 5px;
+  left: 20px;
+  top: 10px;
+}
+.checkbox {
+  position: relative;
+  margin: 0;
+  width: 40px;
+  height: 19px;
+  left: 20px;
+  top: 20px;
+  z-index: 1;
+  opacity: 0;
+}
+.menu {
+  position: absolute;
+  top: 1px;
+  width: 280px;
+  height: 230px;
+  left: -300px;
+  padding-top: 50px;
+  transition: left 0.5s;
+  z-index: -1;
+  background-color: #d9d9d9;
+  border-radius: 3px;
+}
+#menu-Toggle input:checked ~ .menu {
+  left: 0;
+}
+li {
+  list-style: none;
+  margin: 20px 10px;
+  font-family: 'Roboto', sans-serif;
+}
+span {
+  display: block;
+  width: 40px;
+  height: 3px;
+  margin-bottom: 5px;
+  position: relative;
+  top: 10px;
+  background: #B7B7B7 ;
+  border-radius: 3px;
+  transform-origin: 4px 0px;
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              opacity 0.55s ease;
+}
+a {
+  text-decoration: none;
+  color:#434343;
+}
+a:hover {
+  color: tomato;
+}
