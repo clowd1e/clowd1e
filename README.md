@@ -7,17 +7,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clowd1e&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+### Latest project
+[![RhythmiX](https://img.shields.io/badge/-RhythmiX-090909?style=for-the-badge&logo=logoColor=appveyor)](https://github.com/clowd1e/RhythmiX)
+
+### Languages and Tools
+![.NET](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![ASP](https://img.shields.io/badge/-ASP.NET-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=csharp&logoColor=68217A)
+![WebApi](https://img.shields.io/badge/WebApi-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![WPF](https://img.shields.io/badge/WPF-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+
 ###
 
-<img align="right" height="175" src="https://i.gifer.com/Paw.gif"  />
+<img align="right" height="175" src="https://i.pinimg.com/originals/09/a0/20/09a0203160391cc229f9746f64f98a07.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
