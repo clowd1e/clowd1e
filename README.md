@@ -8,7 +8,7 @@
 </div>
 
 ### Latest project
-[![RhythmiX](https://img.shields.io/badge/-RhythmiX-090909?style=for-the-badge&logo=logoColor=appveyor)](https://github.com/clowd1e/RhythmiX)
+[![TeaShop](https://img.shields.io/badge/-TeaShop-090909?style=for-the-badge&logo=logoColor=appveyor)](https://github.com/clowd1e/TeaShop)
 
 ### Languages and Tools
 ![.NET](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
