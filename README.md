@@ -8,7 +8,7 @@
 </div>
 
 ### Latest project
-[![TeaShop](https://img.shields.io/badge/-TeaShop-090909?style=for-the-badge&logo=logoColor=appveyor)](https://github.com/clowd1e/TeaShop)
+[![Messenger](https://img.shields.io/badge/-Messenger-090909?style=for-the-badge&logo=logoColor=appveyor)](https://github.com/clowd1e/Messenger)
 
 ### Languages and Tools
 ![.NET](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
